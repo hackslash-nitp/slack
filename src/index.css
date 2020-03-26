@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background-color: #621F6A;
+  overflow: hidden;
+}
+
+.App{
+  position: absolute;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
